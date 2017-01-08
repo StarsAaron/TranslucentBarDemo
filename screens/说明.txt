@@ -1,0 +1,11 @@
+（1）默认使用4.4系统效果
+（2）4.4纯色状态栏
+（3）4.4图片状态栏
+
+（4）5.1纯色状态栏，设置setFitsSystemWindows 和style_V21的statusBarColor为透明
+（5）5.1纯色状态栏，设置style_V21的statusBarColor为透明，没设置setFitsSystemWindows
+（6）5.1纯色状态栏，没设置setFitsSystemWindows和style_V21的statusBarColor为透明
+（7）5.1图片背景,没在style_V21文件设置statusBarColor为透明
+（8）5.1默认系统效果
+（9）5.1纯色状态栏，设setFitsSystemWindows，没设置style_V21文件statusBarColor为透明
+（10）5.1图片背景状态栏，没设置style_V21文件statusBarColor为透明
